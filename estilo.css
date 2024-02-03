@@ -3,7 +3,7 @@ body{
 }
 
 .contenedor{
-    width: 800px;
+    width: 55%;
     margin: 0 auto;
     background: hsl(0, 0%, 100%);
     border-radius: 20px;
@@ -152,4 +152,14 @@ tr {
     text-align: center; 
     color: hsl(228, 45%, 44%);
     padding: 30px;
+}
+
+@media screen and (max-width: 375px){
+    body{
+        background: hsl(0, 0%, 100%);
+    }
+    
+    .contenedor{
+        width: 100%;
+    }
 }
