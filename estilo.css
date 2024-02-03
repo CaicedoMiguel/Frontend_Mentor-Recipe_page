@@ -1,0 +1,75 @@
+body{
+    background: hsl(30, 54%, 90%);
+}
+
+.contenedor{
+    width: 800px;
+    margin: 0 auto;
+    background: hsl(0, 0%, 100%);
+    border-radius: 20px;
+    /*font-family: 'Young Serif', serif;*/
+    /*font-family: 'Outfit', sans-serif;*/
+    
+}
+
+img {
+    width: 90%;
+    display: block;
+    padding: 30px 0 0 0;
+    margin: auto ;
+    border-radius: 15px;
+}
+
+h1 {
+    font-family: 'Young Serif', serif;
+    color: hsl(24, 5%, 18%);
+    font-weight: normal;
+}
+
+h1, p {
+    padding: 0 0 0 40px;
+}
+
+#texto{
+    font-family:'Outfit', sans-serif;
+    line-height: 20px;
+    color:hsl(24, 5%, 18%); 
+}
+
+.Preparation {
+    background: hsl(330, 100%, 98%);
+    width: 90%;
+    margin: 30px auto;
+    border-radius: 15px;
+    
+}
+
+h3 {
+    color: hsl(332, 51%, 32%);
+    font-family:'Outfit', sans-serif;
+    font-weight: bold;
+    padding: 0 0 0 20px;
+}
+
+.Preparation div {
+    padding: 10px;
+}
+
+.Preparation li {
+    color:hsl(332, 51%, 32%);
+}
+
+.Preparation li span, b {
+    font-family: 'Outfit', sans-serif;
+    font-size: 16px;
+    line-height: 30px;
+    color: hsl(24, 5%, 18%);
+}
+
+
+
+h2 {
+    font-family: 'Young Serif', serif;
+    padding: 0 20px ;
+    color: hsl(14, 45%, 36%);
+}

@@ -1,38 +1,38 @@
-# Front-end Style Guide
+# Guía de estilo de interfaz de usuario
 
-## Layout
+## Disposición
 
-The designs were created to the following widths:
+Los diseños fueron creados con los siguientes anchos:
 
-- Mobile: 375px
-- Desktop: 1440px
+- Móvil: 375px
+- Escritorio: 1440px
 
-## Colors
+## Colores
 
-### Primary
+### Primario
 
-- Nutmeg: hsl(14, 45%, 36%)
-- Dark Raspberry: hsl(332, 51%, 32%)
+- Nuez moscada: hsl(14, 45%, 36%)
+- Frambuesa oscura: hsl(332, 51%, 32%)
 
 ### Neutral
 
-- White: hsl(0, 0%, 100%)
-- Rose White: hsl(330, 100%, 98%)
-- Eggshell: hsl(30, 54%, 90%)
-- Light Grey: hsl(30, 18%, 87%)
-- Wenge Brown: hsl(30, 10%, 34%)
-- Dark Charcoal: hsl(24, 5%, 18%)
+- Blanco: hsl(0, 0%, 100%)
+- Rosa Blanco: hsl(330, 100%, 98%)
+- Cáscara de huevo: hsl(30, 54%, 90%)
+- Gris claro: hsl(30, 18%, 87%)
+- Marrón wengué: hsl(30, 10%, 34%)
+- Carbón oscuro: hsl(24, 5%, 18%)
 
-## Typography
+## Tipografía
 
-### Body Copy
+### Copia de cuerpo
 
-- Font size (paragraph): 16px
+- Tamaño de fuente (párrafo): 16px
 
-### Fonts
+### Fuentes
 
-- Family: [Young Serif](https://fonts.google.com/specimen/Young+Serif)
-- Weights: 400
+- Familia: [Young Serif](https://fonts.google.com/specimen/Young+Serif)
+- Pesos: 400
 
-- Family: [Outfit](https://fonts.google.com/specimen/Outfit)
-- Weights: 400, 600, 700
+- Familia: [Traje](https://fonts.google.com/specimen/Outfit)
+- Pesos: 400, 600, 700
